@@ -8,6 +8,24 @@ the relationships between nutrition, physical activity, BMI, calorie
 intake, and overall health status through data visualization and
 statistical analysis.
 
+## 📷 Project Visualizations
+
+### BMI Category Distribution
+
+![BMI Category Distribution](images/bmi_category_distribution.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/heatmap.png)
+
+### Daily Calorie Requirement vs Consumption
+
+![Daily Calorie Requirement vs Consumption](images/calorie_requirement_vs_consumption.png)
+
+### Pairplot of Key Health Metrics
+
+![Pairplot](images/pairplot.png)
+
 ## Problem Statement
 
 Maintaining a healthy lifestyle requires balancing nutrition, physical
