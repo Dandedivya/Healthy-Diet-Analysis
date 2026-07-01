@@ -16,21 +16,21 @@ statistical analysis.
 
 ---
 
-### Correlation Heatmap
+<h3>Correlation Heatmap</h3>
 
-![Correlation Heatmap](Images/heatmap.png)
-
----
-
-### Daily Calorie Requirement vs Consumption
-
-![Daily Calorie Requirement vs Consumption](Images/daily_calorie_requirement_vs_consumption.png)
+<img src="Images/heatmap.png" width = "700">
 
 ---
 
-### Pairplot of Key Health Metrics
+<h3>Daily Calorie Requirement vs Consumption</h3>
 
-![Pairplot](Images/pairplot.png)
+<img src="Images/daily_calorie_requirement_vs_consumption.png" width = "700">
+
+---
+
+<h3>Pairplot of Key Health Metrics</h3>
+
+<img src="Images/pairplot.png" width = "700">
 
 ## Problem Statement
 
