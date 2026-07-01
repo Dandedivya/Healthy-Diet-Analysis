@@ -12,25 +12,25 @@ statistical analysis.
 
 ### BMI Category Distribution
 
-![BMI Category Distribution](images/bmi_category_distribution.png)
+![BMI Category Distribution](Images/bmi_category_distribution.png)
 
 ---
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](Images/heatmap.png)
 
 ---
 
 ### Daily Calorie Requirement vs Consumption
 
-![Daily Calorie Requirement vs Consumption](images/daily_calorie_requirement_vs_consumption.png)
+![Daily Calorie Requirement vs Consumption](Images/daily_calorie_requirement_vs_consumption.png)
 
 ---
 
 ### Pairplot of Key Health Metrics
 
-![Pairplot](images/pairplot.png)
+![Pairplot](Images/pairplot.png)
 
 ## Problem Statement
 
