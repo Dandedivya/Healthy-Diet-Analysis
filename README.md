@@ -8,11 +8,11 @@ the relationships between nutrition, physical activity, BMI, calorie
 intake, and overall health status through data visualization and
 statistical analysis.
 
-## 📷 Project Visualizations
+##  Project Visualizations
 
-### BMI Category Distribution
+<h3>BMI Category Distribution</h3>
 
-![BMI Category Distribution](Images/bmi_category_distribution.png)
+<img src="Images/bmi_category_distribution.png" width="700">
 
 ---
 
