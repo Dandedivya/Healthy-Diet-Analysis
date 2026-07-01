@@ -18,19 +18,19 @@ statistical analysis.
 
 <h3>Correlation Heatmap</h3>
 
-<img src="Images/heatmap.png" width = "700">
+<img src="Images/heatmap.png" width ="700">
 
 ---
 
 <h3>Daily Calorie Requirement vs Consumption</h3>
 
-<img src="Images/daily_calorie_requirement_vs_consumption.png" width = "700">
+<img src="Images/daily_calorie_requirement_vs_consumption.png" width ="700">
 
 ---
 
 <h3>Pairplot of Key Health Metrics</h3>
 
-<img src="Images/pairplot.png" width = "700">
+<img src="Images/pairplot.png" width ="700">
 
 ## Problem Statement
 
